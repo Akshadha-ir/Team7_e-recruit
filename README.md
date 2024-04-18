@@ -170,11 +170,5 @@ Please refer to the HTTP directory for the full example usage scripts and replac
 
 4.6 Demo
 
-<video controls src="Demo.mp4" title="Title"></video>
-<script src="https://fast.wistia.com/embed/medias/26bg1of82k.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_embed wistia_async_26bg1of82k seo=true videoFoam=false" style="height:340px;position:relative;width:640px"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/26bg1of82k/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div></div>
-
-<video src='Demo.mp4' width=180/>
-
-https://github.com/Akshadha-ir/Team7_e-recruit/assets/69059371/c2f05935-74ee-4bf0-a8d9-2725d7dbb056
-https://github.com/Akshadha-ir/Team7_e-recruit/assets/69059371/83b7f840-15c8-4d93-8ee0-071bd2a537ee
-
+<iframe width="100%" height="100%" src="[https://drive.google.com/file/d/1pdvh_mEnkXPKA3jivYIpYKTaoukxH5p3Yg/view?usp=sharing](https://drive.google.com/file/d/1uyRS67hhUr7DkZirMlVVsFU5_UVq1Uz3/view?usp=drive_link)"></iframe>
+</body>
