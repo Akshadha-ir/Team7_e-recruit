@@ -170,14 +170,5 @@ Please refer to the HTTP directory for the full example usage scripts and replac
 
 4.6 Demo
 
-<!DOCTYPE html>
-<html>
-<body>
-  
-  <iframe src="[url video in google drive/preview](https://drive.google.com/file/d/1uyRS67hhUr7DkZirMlVVsFU5_UVq1Uz3/view?usp=drive_link)" ></iframe>
-  
-  
-<iframe allowfullscreen="allowfullscreen" src="[your_page_url/preview](https://drive.google.com/file/d/1uyRS67hhUr7DkZirMlVVsFU5_UVq1Uz3/view?usp=drive_link)" ></iframe>
+![Demo1](https://github.com/Akshadha-ir/Team7_e-recruit/assets/69059371/56fccd8a-a7d3-4ee4-9b85-2447e59e46d8)
 
-</body>
-</html>
