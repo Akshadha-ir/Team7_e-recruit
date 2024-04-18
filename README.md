@@ -170,5 +170,14 @@ Please refer to the HTTP directory for the full example usage scripts and replac
 
 4.6 Demo
 
-<iframe width="100%" height="100%" src="[https://drive.google.com/file/d/1pdvh_mEnkXPKA3jivYIpYKTaoukxH5p3Yg/view?usp=sharing](https://drive.google.com/file/d/1uyRS67hhUr7DkZirMlVVsFU5_UVq1Uz3/view?usp=drive_link)"></iframe>
+<!DOCTYPE html>
+<html>
+<body>
+  
+  <iframe src="[url video in google drive/preview](https://drive.google.com/file/d/1uyRS67hhUr7DkZirMlVVsFU5_UVq1Uz3/view?usp=drive_link)" ></iframe>
+  
+  
+<iframe allowfullscreen="allowfullscreen" src="[your_page_url/preview](https://drive.google.com/file/d/1uyRS67hhUr7DkZirMlVVsFU5_UVq1Uz3/view?usp=drive_link)" ></iframe>
+
 </body>
+</html>
