@@ -175,4 +175,5 @@ Please refer to the HTTP directory for the full example usage scripts and replac
 <video src='Demo.mp4' width=180/>
 
 https://github.com/Akshadha-ir/Team7_e-recruit/assets/69059371/c2f05935-74ee-4bf0-a8d9-2725d7dbb056
+https://github.com/Akshadha-ir/Team7_e-recruit/assets/69059371/83b7f840-15c8-4d93-8ee0-071bd2a537ee
 
