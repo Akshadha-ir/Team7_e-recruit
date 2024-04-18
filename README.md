@@ -168,6 +168,8 @@ Uploading a resume to a candidate's profile.
 An applicant applying for a job.
 Please refer to the HTTP directory for the full example usage scripts and replace the placeholders with your actual platform URL and object IDs as required.
 
-4.6
+4.6 Demo
 
 <video controls src="Demo.mp4" title="Title"></video>
+
+<video src='Demo.mp4' width=180/>
